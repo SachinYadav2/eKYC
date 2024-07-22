@@ -28,7 +28,7 @@
 
 
 ### 4 Now Created the Your Project Flow Chart so that you have already id ( that you MR and Team will be help you )
-        ![This Flow Char](https://github.com/SachinYadav2/eKYC/blob/main/images/Flow_Chart.png)
+![This Flow Char](https://github.com/SachinYadav2/eKYC/blob/main/images/Flow_Chart.png)
 
 
 
