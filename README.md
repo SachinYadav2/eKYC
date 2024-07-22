@@ -13,6 +13,26 @@
      3 - check created the requirements.txt file using this command - pip freeze > requirement.txt (this > sign is tell us you write the text inside the the this txt file)
      4 - some time when you copy any project that time you need to directly install the some library - pip install -r requirement.txt this commnad you run 
 
+### 3 Git Related Always kepp in mind you main the flow of git
+        1 - git init ( git intialize inside the you project or say folder inside )
+        2 - git add . ( all file add in the git virtually)
+        3 - git commit -m "Commit to push the login page" ( you commit alwys make some sence)
+        4 - git branch -M main  ( if you bracn is not exite that time this is created the brach)
+                if exites then you can switch the branc using the git checkout xyz
+        4 - only this command will use first time - git remote add origin https://github.com/SachinYadav2/eKYC.git
+
+        4 - git push -u origin main ( push you code with your origin )
+            if already push some time - git push (this command may be use some time)
+
+        6 .gitignore ( this file throw you can ignore the file or folder during the git add . time )
+
+
+### 4 Now Created the Your Project Flow Chart so that you have already id ( that you MR and Team will be help you )
+        ![This Flow Char](images/Flow_Chart.png)
+
+
+
+
 
 
 
