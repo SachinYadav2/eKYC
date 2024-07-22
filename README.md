@@ -1,0 +1,18 @@
+# How To Use It This Project
+## Step Wise Go to >
+### 1 - First Step You Created the Virtual ENV (Because Do'nt need to the external Library Load in my server during the Deployedment).
+           -  How to Created the venv 
+                    1 - when you are working on the ### Window > python -m venv my_venv_name
+                    2 - how to active the venv - .\myenv\Scripts\activate ( this time use a backbard slash)
+            Mac Os
+                   1 - created using this command python3 -m venv my_venv_name
+                   2 - activate the venv using the terminal - source venv/bin/activate (forward and source throw)
+### 2 You make sure parrely you main the how much library you are install 
+     1 - first how to install the library terminal(your venv shuld be activate) - pip install numpy (when you install the library in inside the jupyter that time !pip install numpy)
+     2 - check the how much library are install till now - pip list or pip freeze
+     3 - check created the requirements.txt file using this command - pip freeze > requirement.txt (this > sign is tell us you write the text inside the the this txt file)
+     4 - some time when you copy any project that time you need to directly install the some library - pip install -r requirement.txt this commnad you run 
+
+
+
+
