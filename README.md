@@ -38,7 +38,12 @@
 ![This Flow Char](https://github.com/SachinYadav2/eKYC/blob/main/images/Flow_Chart.png)
 
 
-### 5 
+### 5 then I plan the to Perform the Image Preprocessing Task
+  - This is Importance Task to perform well model
+  - Now we perform the PanCard Throw to check the this is user valid or not
+  - that time we are ensure you remove the background of the images.
+  - afeter Preprocessing the images image part done so that we can perform the OCR Task
+### 6 
 
 
 
