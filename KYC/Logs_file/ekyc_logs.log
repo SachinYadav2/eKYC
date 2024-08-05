@@ -1,0 +1,211 @@
+[ 2024-08-05 14:31:35,893: WARNING : log]: Not Found: /
+[ 2024-08-05 14:31:40,941: WARNING : log]: Not Found: /dash/dashboard/
+[ 2024-08-05 14:32:17,571: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 14:32:17,742: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 14:34:15,683: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 14:34:49,144: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 14:35:05,434: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 14:35:05,470: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 14:35:05,603: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 14:35:05,623: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 14:35:05,747: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 14:35:05,772: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 14:35:05,936: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 14:35:05,966: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 14:35:06,089: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 14:35:06,113: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 14:35:06,254: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 14:35:06,280: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 14:35:06,393: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 14:35:06,415: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:05:48,868: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 15:05:59,745: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 15:06:40,074: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 15:06:54,150: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 15:07:20,698: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 15:07:29,646: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 15:07:42,122: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 15:07:45,362: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 15:08:01,653: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 15:08:04,681: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 15:13:59,835: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 15:17:34,611: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 15:17:54,950: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 15:30:07,538: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:30:07,953: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'Registrations'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 49, in Register
+    return render(request , 'Registration/registration.html')
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'Registrations' is not a registered namespace
+[ 2024-08-05 15:30:08,155: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:30:09,887: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:30:09,959: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'Registrations'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 49, in Register
+    return render(request , 'Registration/registration.html')
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'Registrations' is not a registered namespace
+[ 2024-08-05 15:30:10,035: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:30:10,122: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'Registrations'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 49, in Register
+    return render(request , 'Registration/registration.html')
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'Registrations' is not a registered namespace
+[ 2024-08-05 15:30:10,122: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:30:10,252: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:30:37,999: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:30:38,054: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'Registrations'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 49, in Register
+    return render(request , 'Registration/registration.html')
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'Registrations' is not a registered namespace
+[ 2024-08-05 15:30:38,219: WARNING : log]: Not Found: /favicon.ico    
+[ 2024-08-05 15:31:11,985: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:31:12,066: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:31:13,163: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:31:13,212: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:31:13,332: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:31:13,382: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:31:13,480: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:31:13,533: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:31:25,499: WARNING : log]: Not Found: /
+[ 2024-08-05 15:31:26,576: WARNING : log]: Not Found: /
+[ 2024-08-05 15:31:43,395: WARNING : log]: Not Found: /dash/dashboard/
+[ 2024-08-05 15:31:45,414: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:31:53,199: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:31:53,263: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:32:31,179: WARNING : log]: Forbidden (CSRF token missing.): /Registration/
+[ 2024-08-05 15:32:34,803: WARNING : log]: Forbidden (CSRF token missing.): /Registration/
+[ 2024-08-05 15:32:36,855: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:32:36,921: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 15:32:47,987: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 15:32:47,989: INFO : views]: Your data is Enter 
+[ 2024-08-05 15:32:47,989: INFO : views]: name:sachin last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-05 15:32:48,001: INFO : views]: Your Information is Succesfully save okk
+[ 2024-08-05 17:30:30,105: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\KYC\settings.py changed, reloading.
+[ 2024-08-05 17:30:43,045: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\KYC\urls.py changed, reloading.
+[ 2024-08-05 17:30:48,998: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\KYC\urls.py changed, reloading.
+[ 2024-08-05 17:30:54,394: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\KYC\urls.py changed, reloading.
