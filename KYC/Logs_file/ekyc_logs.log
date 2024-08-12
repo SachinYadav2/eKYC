@@ -209,3 +209,1214 @@ django.urls.exceptions.NoReverseMatch: 'Registrations' is not a registered names
 [ 2024-08-05 17:30:43,045: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\KYC\urls.py changed, reloading.
 [ 2024-08-05 17:30:48,998: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\KYC\urls.py changed, reloading.
 [ 2024-08-05 17:30:54,394: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\KYC\urls.py changed, reloading.
+[ 2024-08-05 18:06:45,286: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 18:06:47,433: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 18:06:56,874: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\forms.py changed, reloading.
+[ 2024-08-05 18:07:00,120: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\forms.py changed, reloading.
+[ 2024-08-05 18:07:10,837: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 18:07:14,153: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 18:07:22,254: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 18:07:38,793: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 18:07:41,217: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-05 18:11:13,426: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:11:17,485: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:11:26,705: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:11:29,755: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:11:33,916: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:11:38,003: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:11:43,191: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:11:49,212: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:11:54,363: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:11:59,525: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:07,188: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:09,332: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:11,644: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:13,973: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:17,365: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:20,654: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:23,768: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:26,874: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:30,247: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-05 18:12:53,876: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:12:56,873: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:13:00,993: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:13:05,233: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:13:13,032: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:13:17,289: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:14:42,853: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\urls.py changed, reloading.
+[ 2024-08-05 18:16:45,915: WARNING : log]: Not Found: /
+[ 2024-08-05 18:16:45,993: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:16:49,506: WARNING : log]: Not Found: /dash/dashboard/
+[ 2024-08-05 18:16:51,324: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:17:10,645: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:17:10,646: INFO : views]: Your data is Enter 
+[ 2024-08-05 18:17:10,646: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-05 18:17:10,725: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: table Registration_register has no column named email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 42, in Register
+    instance.save()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: table Registration_register has no column named email
+[ 2024-08-05 18:17:48,034: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\forms.py changed, reloading.
+[ 2024-08-05 18:18:04,643: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:18:04,644: INFO : views]: Your data is Enter 
+[ 2024-08-05 18:18:04,644: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-05 18:18:04,695: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: table Registration_register has no column named email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 42, in Register
+    instance.save()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: table Registration_register has no column named email
+[ 2024-08-05 18:18:06,364: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:18:06,395: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:18:07,694: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:18:07,728: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:18:07,880: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:18:07,904: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:18:08,024: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:18:08,049: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:18:08,150: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:18:08,174: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:18:19,057: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:18:19,057: INFO : views]: Your data is Enter 
+[ 2024-08-05 18:18:19,057: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-05 18:18:19,091: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: table Registration_register has no column named email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 42, in Register
+    instance.save()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: table Registration_register has no column named email
+[ 2024-08-05 18:19:32,628: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-05 18:20:55,287: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:20:55,289: INFO : views]: Your data is Enter 
+[ 2024-08-05 18:20:55,289: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-05 18:20:55,338: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: table Registration_register has no column named email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 42, in Register
+    instance.save()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: table Registration_register has no column named email
+[ 2024-08-05 18:20:59,142: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:20:59,175: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:20:59,322: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:20:59,353: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:20:59,472: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:20:59,491: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:20:59,633: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:20:59,655: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:20:59,787: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:20:59,815: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:20:59,974: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:21:00,000: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:21:00,127: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:21:00,157: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-05 18:21:11,241: INFO : views]: Your Regirster Function is call now
+[ 2024-08-05 18:21:11,243: INFO : views]: Your data is Enter 
+[ 2024-08-05 18:21:11,243: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-05 18:21:11,279: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: table Registration_register has no column named email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 42, in Register
+    instance.save()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: table Registration_register has no column named email
+[ 2024-08-06 12:35:27,075: WARNING : log]: Not Found: /
+[ 2024-08-06 12:35:27,143: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-06 12:35:31,691: WARNING : log]: Not Found: /dash/dashboard/
+[ 2024-08-06 12:35:33,619: INFO : views]: Your Regirster Function is call now
+[ 2024-08-06 12:35:42,730: WARNING : log]: Not Found: /Login
+[ 2024-08-06 12:36:16,399: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 12:36:24,780: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 12:36:27,959: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 12:37:03,953: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 12:37:09,068: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 12:37:17,379: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 12:37:20,542: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 12:37:26,726: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 12:37:28,813: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 12:37:35,401: INFO : views]: Your Regirster Function is call now
+[ 2024-08-06 12:37:38,622: INFO : views]: Your Regirster Function is call now
+[ 2024-08-06 12:37:38,678: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view Registration.views.Register didn't return an HttpResponse object. It returned None instead.
+[ 2024-08-06 12:40:48,301: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-06 13:08:06,511: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 13:34:39,474: WARNING : log]: Not Found: /
+[ 2024-08-11 13:34:39,676: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 13:34:43,352: WARNING : log]: Not Found: /dash/dashboard/
+[ 2024-08-11 13:34:47,619: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:34:52,296: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:34:52,443: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view Registration.views.Register didn't return an HttpResponse object. It returned None instead.
+[ 2024-08-11 13:37:52,720: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:37:52,760: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view Registration.views.Register didn't return an HttpResponse object. It returned None instead.
+[ 2024-08-11 13:37:52,869: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 13:38:44,728: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:38:44,728: INFO : views]: Your data is Enter 
+[ 2024-08-11 13:38:44,728: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 13:38:44,919: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: table Registration_register has no column named email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 42, in Register
+    instance.save()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: table Registration_register has no column named email
+[ 2024-08-11 13:43:12,320: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:43:12,329: INFO : views]: Your data is Enter 
+[ 2024-08-11 13:43:12,330: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 13:43:12,630: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 35, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-11 13:43:12,914: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 13:43:14,964: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:43:15,055: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 13:43:15,461: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:43:15,539: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 13:43:15,627: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:43:15,704: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 13:43:15,810: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:43:15,927: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 13:43:25,944: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:43:25,944: INFO : views]: Your data is Enter 
+[ 2024-08-11 13:43:25,944: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 13:43:26,059: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 35, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-11 13:56:06,389: WARNING : log]: Not Found: /
+[ 2024-08-11 13:56:13,000: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:56:23,363: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 13:56:23,371: INFO : views]: Your data is Enter 
+[ 2024-08-11 13:56:23,371: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 13:56:23,574: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 35, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-11 14:00:33,347: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 14:00:37,340: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 14:01:07,677: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:01:07,677: INFO : views]: Your data is Enter 
+[ 2024-08-11 14:01:07,677: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 14:01:07,795: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 37, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-11 14:01:16,023: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:01:16,023: INFO : views]: Your data is Enter 
+[ 2024-08-11 14:01:16,029: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 14:01:16,145: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 37, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-11 14:01:16,517: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:01:17,870: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:01:17,950: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:01:18,117: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:01:18,240: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:01:18,275: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:01:18,398: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:01:27,297: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:01:27,303: INFO : views]: Your data is Enter 
+[ 2024-08-11 14:01:27,303: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 14:01:27,379: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 37, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-11 14:03:33,223: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:03:33,292: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:03:40,822: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:03:40,900: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view Registration.views.Register didn't return an HttpResponse object. It returned None instead.
+[ 2024-08-11 14:04:37,498: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 14:04:51,813: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:04:51,951: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:04:51,958: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:04:52,005: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:04:52,119: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:04:52,229: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:04:59,512: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:05:19,663: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\forms.py changed, reloading.
+[ 2024-08-11 14:05:25,720: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 14:05:31,852: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-11 14:05:40,390: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\admin.py changed, reloading.
+[ 2024-08-11 14:05:53,632: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:05:53,632: INFO : views]: Your data is Enter 
+[ 2024-08-11 14:05:53,632: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 14:05:53,882: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 37, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-11 14:05:54,115: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:06:00,214: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:00,215: INFO : views]: Your data is Enter 
+[ 2024-08-11 14:06:00,215: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 14:06:00,382: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 37, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-11 14:06:00,592: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:06:02,214: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:08,117: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:16,341: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:16,341: INFO : views]: Your data is Enter 
+[ 2024-08-11 14:06:16,341: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-11 14:06:16,435: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 37, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-11 14:06:33,129: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\models.py changed, reloading.
+[ 2024-08-11 14:06:37,119: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\forms.py changed, reloading.
+[ 2024-08-11 14:06:43,062: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 14:06:47,525: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:47,684: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:47,775: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:06:47,830: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:47,851: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:06:47,907: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:06:48,249: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:48,364: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:06:48,457: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:48,575: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:06:48,617: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:06:48,745: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:06:55,375: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:07:05,663: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 14:07:09,738: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 14:07:18,207: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 14:07:30,606: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-11 14:07:33,710: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:07:33,712: INFO : views]: Your Format is not valid please check to succefully regirstion bro!
+[ 2024-08-11 14:07:33,842: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-11 14:07:41,596: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 14:07:41,601: INFO : views]: Your Format is not valid please check to succefully regirstion bro!
+[ 2024-08-11 21:17:47,371: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 21:18:04,868: INFO : views]: Your Regirster Function is call now
+[ 2024-08-11 21:18:04,870: INFO : views]: Your Format is not valid please check to succefully regirstion bro!
+[ 2024-08-12 09:51:07,804: WARNING : log]: Not Found: /
+[ 2024-08-12 09:51:07,871: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 09:51:17,862: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 09:51:28,499: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 09:51:28,499: INFO : views]: Your Format is not valid please check to succefully regirstion bro!
+[ 2024-08-12 09:52:10,431: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 09:53:01,742: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 09:53:01,743: INFO : views]: Your Format is not valid please check to succefully regirstion bro!
+[ 2024-08-12 09:53:01,786: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 09:53:04,420: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 09:53:04,421: INFO : views]: Your Format is not valid please check to succefully regirstion bro!
+[ 2024-08-12 09:53:04,449: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 09:53:14,352: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 09:53:14,353: INFO : views]: Your data is Enter 
+[ 2024-08-12 09:53:14,353: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-12 09:53:14,479: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 37, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-12 10:01:37,013: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 10:02:01,500: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 10:02:06,581: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 10:02:17,842: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:02:17,842: INFO : views]: Your Format is not valid please check to succefully regirstion bro!
+[ 2024-08-12 10:02:17,885: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 10:02:20,270: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:02:20,270: INFO : views]: Your Format is not valid please check to succefully regirstion bro!
+[ 2024-08-12 10:02:20,301: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 10:02:30,137: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:02:30,137: INFO : views]: Your data is Enter 
+[ 2024-08-12 10:02:30,137: INFO : views]: Name: rahul Last Name: dsds Place: hathras Mobile: 9368754084
+[ 2024-08-12 10:02:30,176: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: Registration_register
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py", line 36, in Register
+    if register.objects.filter(mobile=mobile).exists():
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: Registration_register
+[ 2024-08-12 10:14:17,100: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:14:17,102: INFO : views]: Your data is Enter 
+[ 2024-08-12 10:14:17,102: INFO : views]: name:rahul last_name:dsds place :hathras mobile 9368754084
+[ 2024-08-12 10:14:17,113: INFO : views]: Your Information is Succesfully save okk
+[ 2024-08-12 10:14:17,138: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 10:14:22,642: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:14:22,643: INFO : views]: Your data is Enter 
+[ 2024-08-12 10:14:22,643: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-12 10:14:22,645: INFO : views]: This Mobile No user already inside the database !
+[ 2024-08-12 10:14:22,689: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 10:14:29,775: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:14:29,778: INFO : views]: Your data is Enter 
+[ 2024-08-12 10:14:29,778: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-12 10:14:29,780: INFO : views]: This Mobile No user already inside the database !
+[ 2024-08-12 10:15:15,616: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 10:15:38,728: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:15:38,762: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view Registration.views.Register didn't return an HttpResponse object. It returned None instead.
+[ 2024-08-12 10:15:50,325: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:15:50,325: INFO : views]: Your data is Enter 
+[ 2024-08-12 10:15:50,325: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-12 10:15:50,326: INFO : views]: This Mobile No user already inside the database !
+[ 2024-08-12 10:15:50,379: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 10:16:01,287: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:16:01,287: INFO : views]: Your data is Enter 
+[ 2024-08-12 10:16:01,288: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-12 10:16:01,289: INFO : views]: This Mobile No user already inside the database !
+[ 2024-08-12 10:16:51,194: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 10:16:51,194: INFO : views]: Your data is Enter 
+[ 2024-08-12 10:16:51,194: INFO : views]: name:sdsd last_name:yadav place :hathras mobile 22323
+[ 2024-08-12 10:16:51,206: INFO : views]: Your Information is Succesfully save okk
+
+
+[ 2024-08-12 21:33:46,653: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\KYC\settings.py changed, reloading.
+[ 2024-08-12 21:40:14,172: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\views.py changed, reloading.
+[ 2024-08-12 21:42:31,139: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 21:42:34,359: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 21:50:03,555: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 21:50:09,353: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 21:50:15,012: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 21:50:36,991: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 21:50:46,395: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 21:50:51,731: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 21:50:56,260: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Registration\views.py changed, reloading.
+[ 2024-08-12 21:51:34,673: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:51:43,789: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:51:48,863: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:51:58,833: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:52:04,871: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:52:07,853: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:52:10,691: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:52:14,248: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:52:22,367: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:52:28,649: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:52:39,379: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:52:46,108: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:53:16,526: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:53:23,491: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:53:27,501: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:53:32,644: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:53:43,041: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:53:48,817: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:53:53,944: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:53:58,389: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:54:06,628: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:54:10,634: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:54:15,091: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:54:28,237: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:54:39,664: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:54:46,162: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:54:54,948: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:56:24,029: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:56:51,303: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:57:08,238: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:57:11,465: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:57:17,736: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:57:21,103: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:57:38,384: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 21:57:51,990: WARNING : log]: Not Found: /
+[ 2024-08-12 21:57:52,111: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 21:57:59,208: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 21:58:35,789: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 21:58:35,790: INFO : views]: Your data is Enter 
+[ 2024-08-12 21:58:35,790: INFO : views]: name:rahul last_name:yadav place :hathras mobile 9368754084
+[ 2024-08-12 21:58:35,793: INFO : views]: This Mobile No user already inside the database !
+[ 2024-08-12 21:58:39,950: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 21:58:40,092: ERROR : log]: Internal Server Error: /Registration/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view Registration.views.Register didn't return an HttpResponse object. It returned None instead.
+[ 2024-08-12 21:59:00,875: INFO : views]: Your Regirster Function is call now
+[ 2024-08-12 21:59:00,875: INFO : views]: Your data is Enter 
+[ 2024-08-12 21:59:00,875: INFO : views]: name:mohan last_name:yadav place :mahow mobile 32323232
+[ 2024-08-12 21:59:00,890: INFO : views]: Your Information is Succesfully save okk and login page redirect succsfull
+[ 2024-08-12 21:59:33,676: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 21:59:42,566: WARNING : log]: Forbidden (CSRF token missing.): /Login/login/
+[ 2024-08-12 22:00:09,587: WARNING : log]: Forbidden (CSRF token missing.): /Login/login/
+[ 2024-08-12 22:00:12,987: WARNING : log]: Forbidden (CSRF token missing.): /Login/login/
+[ 2024-08-12 22:00:13,044: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:00:15,341: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:00:16,299: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:00:17,756: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:00:17,939: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:00:50,530: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:00:56,826: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:01:04,434: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:01:10,165: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:01:14,987: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:01:34,001: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:01:39,191: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:01:56,250: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:02:01,508: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:02:06,324: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:02:18,253: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:02:22,446: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:02:34,115: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:02:37,267: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:02:41,399: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:02:45,809: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:02:59,059: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:03:06,574: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:03:10,753: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:03:39,408: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:03:48,599: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:05:49,543: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\urls.py changed, reloading.
+[ 2024-08-12 22:06:02,978: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:06:06,601: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:06:10,082: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:06:38,804: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:06:41,750: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:06:47,233: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:06:49,791: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:06:49,858: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:06:55,780: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:06:55,783: INFO : views]: Your All Information is Right and now Your Dashboard Page is call or show
+[ 2024-08-12 22:06:55,793: INFO : views]: Your Dashbooard Page Function Call is Name is Dash
+[ 2024-08-12 22:07:08,441: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\views.py changed, reloading.
+[ 2024-08-12 22:07:19,797: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\views.py changed, reloading.
+[ 2024-08-12 22:07:22,970: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\views.py changed, reloading.
+[ 2024-08-12 22:07:31,464: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\views.py changed, reloading.
+[ 2024-08-12 22:07:37,471: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:07:37,475: INFO : views]: Your All Information is Right and now Your Dashboard Page is call or show
+[ 2024-08-12 22:07:37,486: INFO : views]: Your Dashbooard Page Function Call is Name is Dash
+[ 2024-08-12 22:07:37,578: ERROR : log]: Internal Server Error: /Dashboard/Dash/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\views.py", line 17, in Dash
+    return render(request , "first.html")
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: first.html
+[ 2024-08-12 22:09:06,043: INFO : views]: Your Dashbooard Page Function Call is Name is Dash
+[ 2024-08-12 22:09:06,093: ERROR : log]: Internal Server Error: /Dashboard/Dash/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\views.py", line 17, in Dash
+    return render(request , "first.html")
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: first.html
+[ 2024-08-12 22:09:06,192: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:09:11,175: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:09:11,226: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:09:11,342: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:09:11,404: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:09:15,423: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:09:15,423: INFO : views]: Your All Information is Right and now Your Dashboard Page is call or show
+[ 2024-08-12 22:09:15,433: INFO : views]: Your Dashbooard Page Function Call is Name is Dash
+[ 2024-08-12 22:09:15,484: ERROR : log]: Internal Server Error: /Dashboard/Dash/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\views.py", line 17, in Dash
+    return render(request , "first.html")
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Sachin2\Desktop\Project\eKYC\myenv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: first.html
+[ 2024-08-12 22:14:23,198: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Login\views.py changed, reloading.
+[ 2024-08-12 22:14:38,808: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:14:38,879: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:14:38,983: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:14:39,030: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:14:39,157: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:14:39,202: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:14:39,329: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:14:39,375: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:14:39,477: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:14:39,592: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:14:39,641: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:14:39,745: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:14:39,820: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:14:39,926: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:14:39,982: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:14:40,103: WARNING : log]: Not Found: /favicon.ico
+[ 2024-08-12 22:14:45,613: INFO : views]: Your Login Page Function is Call
+[ 2024-08-12 22:14:45,617: INFO : views]: Your All Information is Right and now Your Dashboard Page is call or show
+[ 2024-08-12 22:14:45,625: INFO : views]: Your Dashbooard Page Function Call is Name is Dash
+[ 2024-08-12 22:15:33,021: INFO : autoreload]: C:\Users\Sachin2\Desktop\Project\eKYC\KYC\Dashboard\views.py changed, reloading.

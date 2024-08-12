@@ -1,5 +1,5 @@
 
-from django.shortcuts import render
+from django.shortcuts import render , redirect
 import logging
 import os
 from .forms import registerform
@@ -37,12 +37,8 @@ def Register(request):
 
                 instance = register(first_name=first_name , last_name=last_name , mobile=mobile ,place=place)
                 instance.save()
-                logging.info("Your Information is Succesfully save okk")
-                return HttpResponse ("Login Page Welcome !")
-
-
-
-
+                logging.info("Your Information is Succesfully save okk and login page redirect succsfull")
+                return redirect("Login:login")
 
     else:
 

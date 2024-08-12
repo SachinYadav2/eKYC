@@ -5,6 +5,6 @@ from django.db import models
 class register(models.Model):
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50)
-    mobile = models.IntegerField(max_length=30)
+    mobile = models.IntegerField()
     place = models.CharField(max_length=40)
     
